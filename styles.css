@@ -95,7 +95,6 @@ footer {
   opacity: 0;
   animation: fade-in 2s ease-out forwards;
 }
-
 @keyframes fade-in {
   from {
     opacity: 0;
