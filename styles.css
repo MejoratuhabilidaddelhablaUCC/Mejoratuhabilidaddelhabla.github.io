@@ -118,4 +118,9 @@ footer {
     font-size: 14px;
   }
 }
+    .responsive-image {
+  max-width: 100%;
+  height: auto;
+}
+
     
