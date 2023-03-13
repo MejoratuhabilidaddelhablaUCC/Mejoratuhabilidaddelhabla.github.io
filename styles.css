@@ -118,35 +118,4 @@ footer {
     font-size: 14px;
   }
 }
-    @media screen and (max-width: 600px) {
-  header {
-    padding: 10px;
-  }
-  header h1 {
-    font-size: 24px;
-  }
-  nav ul li a {
-    font-size: 16px;
-    padding: 5px 10px;
-  }
-  section {
-    padding: 40px;
-  }
-  section h2 {
-    font-size: 28px;
-  }
-  section p {
-    font-size: 16px;
-    margin-bottom: 20px;
-  }
-  footer {
-    padding: 20px;
-    font-size: 12px;
-  }
-}
-    img[src="ruta_de_tu_imagen.jpg"] {
-  max-width: 100%;
-  height: auto;
-}
-
-
+    
