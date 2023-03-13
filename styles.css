@@ -144,4 +144,9 @@ footer {
     font-size: 12px;
   }
 }
+    img[src="ruta_de_tu_imagen.jpg"] {
+  max-width: 100%;
+  height: auto;
+}
+
 
